@@ -2,22 +2,22 @@ export default [
   {
     question: "What do penguins use to keep their feet warm?",
     options: ["Tiny socks", "Heated rocks", "Blubber slippers", "Ice skates"],
-    answer: "Blubber slippers",
+    answer: 3,
   },
   {
     question: "Which planet in our solar system is known as the 'Red Planet'?",
     options: ["Venus", "Mars", "Saturn", "Jupiter"],
-    answer: "Mars",
+    answer: 2,
   },
   {
     question: "In what year did the first iPhone come out?",
     options: ["2004", "2007", "2010", "2013"],
-    answer: "2007",
+    answer: 2,
   },
   {
     question: "What do you call a group of flamingos?",
     options: ["A flock", "A herd", "A flamboyance", "A coven"],
-    answer: "A flamboyance",
+    answer: 3,
   },
   {
     question: "Who is the current Prime Minister of Canada?",
@@ -27,22 +27,22 @@ export default [
       "Justin Trudeau",
       "Justin Theroux",
     ],
-    answer: "Justin Trudeau",
+    answer: 3,
   },
   {
     question: "What is the smallest country in the world?",
     options: ["Vatican City", "Monaco", "Liechtenstein", "San Marino"],
-    answer: "Vatican City",
+    answer: 1,
   },
   {
     question: "How many sides does a heptagon have?",
     options: ["Six", "Seven", "Eight", "Nine"],
-    answer: "Seven",
+    answer: 2,
   },
   {
     question: "What is the name of the dog in the cartoon 'Scooby-Doo'?",
     options: ["Scrappy-Doo", "Marmaduke", "Astro", "Scooby-Dum"],
-    answer: "Scrappy-Doo",
+    answer: 2,
   },
   {
     question: "Who painted the famous 'Mona Lisa' portrait?",
@@ -52,7 +52,7 @@ export default [
       "Michelangelo",
       "Vincent van Gogh",
     ],
-    answer: "Leonardo da Vinci",
+    answer: 2,
   },
   {
     question: "What is the highest mountain in the world?",
@@ -62,7 +62,7 @@ export default [
       "Mount Fuji",
       "Mount McKinley (Denali)",
     ],
-    answer: "Mount Everest",
+    answer: 1,
   },
 ];
 
