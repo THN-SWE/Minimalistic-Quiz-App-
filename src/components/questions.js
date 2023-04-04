@@ -1,33 +1,68 @@
-export default[
+export default [
   {
-    question: "1st",
-    options: ["A", "B", "C", "D"], // this type of data setting is know as mapping (key value pair)
-    answer: 1,
+    question: "What do penguins use to keep their feet warm?",
+    options: ["Tiny socks", "Heated rocks", "Blubber slippers", "Ice skates"],
+    answer: "Blubber slippers",
   },
   {
-    question: "2nd",
-    options: ["A", "B", "C", "D"],
-    answer: 0,
+    question: "Which planet in our solar system is known as the 'Red Planet'?",
+    options: ["Venus", "Mars", "Saturn", "Jupiter"],
+    answer: "Mars",
   },
   {
-    question: "3rd",
-    options: ["A", "B", "C", "D"],
-    answer: 1,
+    question: "In what year did the first iPhone come out?",
+    options: ["2004", "2007", "2010", "2013"],
+    answer: "2007",
   },
   {
-    question: "4th",
-    options: ["A", "B", "C", "D"],
-    answer: 2,
+    question: "What do you call a group of flamingos?",
+    options: ["A flock", "A herd", "A flamboyance", "A coven"],
+    answer: "A flamboyance",
   },
   {
-    question: "5th",
-    options: ["A", "B", "C", "D"],
-    answer: 3,
+    question: "Who is the current Prime Minister of Canada?",
+    options: [
+      "Justin Bieber",
+      "Justin Timberlake",
+      "Justin Trudeau",
+      "Justin Theroux",
+    ],
+    answer: "Justin Trudeau",
   },
   {
-    question: "6th",
-    options: ["A", "B", "C", "D"],
-    answer: 4,
+    question: "What is the smallest country in the world?",
+    options: ["Vatican City", "Monaco", "Liechtenstein", "San Marino"],
+    answer: "Vatican City",
+  },
+  {
+    question: "How many sides does a heptagon have?",
+    options: ["Six", "Seven", "Eight", "Nine"],
+    answer: "Seven",
+  },
+  {
+    question: "What is the name of the dog in the cartoon 'Scooby-Doo'?",
+    options: ["Scrappy-Doo", "Marmaduke", "Astro", "Scooby-Dum"],
+    answer: "Scrappy-Doo",
+  },
+  {
+    question: "Who painted the famous 'Mona Lisa' portrait?",
+    options: [
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Vincent van Gogh",
+    ],
+    answer: "Leonardo da Vinci",
+  },
+  {
+    question: "What is the highest mountain in the world?",
+    options: [
+      "Mount Everest",
+      "Mount Kilimanjaro",
+      "Mount Fuji",
+      "Mount McKinley (Denali)",
+    ],
+    answer: "Mount Everest",
   },
 ];
 
@@ -60,6 +95,3 @@ export default[
 // However, there are a few situations where you might still want to use a regular function, such as when you need to use the this keyword inside the function. Arrow functions don't have their own this context, so they can't be used as methods on objects.
 
 // I hope that clears things up! Let me know if you have any more questions.
-
-
-
