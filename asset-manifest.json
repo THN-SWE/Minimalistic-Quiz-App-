@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Minimalistic-Quiz-App-/static/css/main.41ed125a.css",
-    "main.js": "/Minimalistic-Quiz-App-/static/js/main.8e900ba6.js",
+    "main.js": "/Minimalistic-Quiz-App-/static/js/main.5ae18265.js",
     "static/js/787.d2ba2272.chunk.js": "/Minimalistic-Quiz-App-/static/js/787.d2ba2272.chunk.js",
     "index.html": "/Minimalistic-Quiz-App-/index.html",
     "main.41ed125a.css.map": "/Minimalistic-Quiz-App-/static/css/main.41ed125a.css.map",
-    "main.8e900ba6.js.map": "/Minimalistic-Quiz-App-/static/js/main.8e900ba6.js.map",
+    "main.5ae18265.js.map": "/Minimalistic-Quiz-App-/static/js/main.5ae18265.js.map",
     "787.d2ba2272.chunk.js.map": "/Minimalistic-Quiz-App-/static/js/787.d2ba2272.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41ed125a.css",
-    "static/js/main.8e900ba6.js"
+    "static/js/main.5ae18265.js"
   ]
 }
